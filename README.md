@@ -93,11 +93,14 @@ O PDF final contém:
 
 ### Gráficos
 
-<img src="outputs/tsne_plot.png" alt="t-SNE" width="400"/>
-<img src="outputs/accuracy_plot.png" alt="Accuracy" width="400"/>
-<img src="outputs/f1_plot.png" alt="F1 Score" width="400"/>
-<img src="outputs/topk_plot.png" alt="Top-k Accuracy" width="400"/>
-<img src="outputs/auc_plot.png" alt="AUC" width="400"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="outputs/tsne_plot.png" alt="t-SNE" width="300"/>
+  <img src="outputs/accuracy_plot.png" alt="Accuracy" width="300"/>
+  <img src="outputs/f1_plot.png" alt="F1 Score" width="300"/>
+  <img src="outputs/topk_plot.png" alt="Top-k Accuracy" width="300"/>
+  <img src="outputs/auc_plot.png" alt="AUC" width="300"/>
+</div>
+
 
 
 
