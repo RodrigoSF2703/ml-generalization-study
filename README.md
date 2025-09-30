@@ -92,11 +92,13 @@ O PDF final contém:
 ## Saídas Esperadas
 
 ### Gráficos
-- `tsne_plot.png`
-- `accuracy_plot.png`
-- `f1_plot.png`
-- `topk_plot.png`
-- `auc_plot.png`
+
+![t-SNE](outputs/tsne_plot.png)
+![Accuracy](outputs/accuracy_plot.png)
+![F1 Score](outputs/f1_plot.png)
+![Top-k Accuracy](outputs/topk_plot.png)
+![AUC](outputs/auc_plot.png)
+
 
 ### PDF Final
 - `Relatorio_Classificacao_Sindromes.pdf`
